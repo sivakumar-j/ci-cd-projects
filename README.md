@@ -28,7 +28,7 @@
       * Create a build from java code,dockerize it and then pull run it, in  production server
       * Application should be running
   * Tools used
-      * Jenkins,gradle
+      * Jenkins,gradle,Docker
   * github.com/sivakumar-j-secondary-ac/cicd-pipeline-train-schedule-gradle
   
   
