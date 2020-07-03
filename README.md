@@ -4,7 +4,7 @@
 
 * So, will create repo in my secondary account github.com/sivakumar-j-secondary-ac and document here
 
-### 1.[simple-devops-1](github.com/sivakumar-j-secondary-ac/devops_cicd_webpage_1.git)
+### 1.[simple-devops-1](github.com/sivakumar-j-secondary-ac/devops_cicd_webpage_1)
  
   * Objective 
       * Create a docker build from web application and push to docker hub
@@ -12,24 +12,21 @@
   * Tools used
       * Ansible,Docker
 
-  
- ### 2.Train schedule webpage - No docker & k3
+### 2.[Train schedule webpage - No docker & k3](github.com/sivakumar-j-secondary-ac/cicd-pipeline-train-schedule-gradle)
   
   * Objective
       * Create a build from java code,deploy in staging and production server( need auth)
       * Application should be running
   * Tools used
       * Jenkins,gradle
-  * [Repo Link](github.com/sivakumar-j-secondary-ac/cicd-pipeline-train-schedule-gradle)
-  
- ### 3.Train schedule webpage - with docker,no k3
+
+### [3.Train schedule webpage - with docker,no k3](github.com/sivakumar-j-secondary-ac/whboyd-cicd-pipeline-train-schedule-dockerdeploy)
    
   * Objective
       * Create a build from java code,dockerize it and then pull run it, in  production server
       * Application should be running
   * Tools used
       * Jenkins,gradle,Docker
-  * [Repo Link](github.com/sivakumar-j-secondary-ac/whboyd-cicd-pipeline-train-schedule-dockerdeploy)
   
   
   
