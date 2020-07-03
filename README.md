@@ -9,7 +9,7 @@
   * #### Objective 
       * Create a docker build from web application and push to docker hub
       * Pull it in another node and run it
-  * ** Tools used ** - Ansible,Docker
+  * **Tools used** - Ansible,Docker
 
 ### 2.[Train schedule webpage - No docker & k3](github.com/sivakumar-j-secondary-ac/cicd-pipeline-train-schedule-gradle)
   
