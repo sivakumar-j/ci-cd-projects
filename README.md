@@ -29,7 +29,7 @@
       * Application should be running
   * Tools used
       * Jenkins,gradle,Docker
-  * github.com/sivakumar-j-secondary-ac/cicd-pipeline-train-schedule-gradle
+  * github.com/sivakumar-j-secondary-ac/whboyd-cicd-pipeline-train-schedule-dockerdeploy
   
   
   
