@@ -6,7 +6,7 @@
 
 ### 1.[simple-devops-1](github.com/sivakumar-j-secondary-ac/devops_cicd_webpage_1)
  
-  * ####Objective 
+  * #### Objective 
       * Create a docker build from web application and push to docker hub
       * Pull it in another node and run it
   * Tools used
