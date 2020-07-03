@@ -4,14 +4,14 @@
 
 * So, will create repo in my secondary account github.com/sivakumar-j-secondary-ac and document here
 
-### 1.simple-devops-1
+### 1.[simple-devops-1](github.com/sivakumar-j-secondary-ac/devops_cicd_webpage_1.git)
  
   * Objective 
       * Create a docker build from web application and push to docker hub
       * Pull it in another node and run it
   * Tools used
       * Ansible,Docker
-  * [Repo Link](github.com/sivakumar-j-secondary-ac/devops_cicd_webpage_1.git)
+
   
  ### 2.Train schedule webpage - No docker & k3
   
