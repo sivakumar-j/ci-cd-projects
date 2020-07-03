@@ -11,7 +11,7 @@
       * Pull it in another node and run it
   * Tools used
       * Ansible,Docker
-  * [github.com/sivakumar-j-secondary-ac/devops_cicd_webpage_1.git]
+  * [(github.com/sivakumar-j-secondary-ac/devops_cicd_webpage_1.git)]
   
  ### 2.Train schedule webpage - No docker & k3
   
@@ -20,7 +20,7 @@
       * Application should be running
   * Tools used
       * Jenkins,gradle
-  * [github.com/sivakumar-j-secondary-ac/cicd-pipeline-train-schedule-gradle]
+  * [(github.com/sivakumar-j-secondary-ac/cicd-pipeline-train-schedule-gradle)]
   
  ### 3.Train schedule webpage - with docker,no k3
    
@@ -29,7 +29,7 @@
       * Application should be running
   * Tools used
       * Jenkins,gradle,Docker
-  * [github.com/sivakumar-j-secondary-ac/whboyd-cicd-pipeline-train-schedule-dockerdeploy]
+  * [(github.com/sivakumar-j-secondary-ac/whboyd-cicd-pipeline-train-schedule-dockerdeploy)]
   
   
   
