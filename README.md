@@ -1,6 +1,6 @@
 # ci-cd-projects
 
-* Creating repo for each ci-cd projects will be end up in lot of repos
+* Creating repo for each ci-cd projects will end up in lot of repos
 
 * So, will create repo in my secondary account github.com/sivakumar-j-secondary-ac and document here
 
