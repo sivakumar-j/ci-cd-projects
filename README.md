@@ -14,7 +14,7 @@
 
 ### 2.Train schedule application
 
-   * [Phase 1-Legacy-Deployment](https://github.com/sivakumar-j-secondary-ac/cicd-pipeline-train-schedule-gradle)
+   * [Phase 1-Legacy-Deployment](https://github.com/sivakumar-j-secondary-ac/15.1.1.0.ci-cd-train-schedule-phase-1)
    
      * **Objective** 
          * Create a build from nodejs code,deploy in staging and production server( need auth)
