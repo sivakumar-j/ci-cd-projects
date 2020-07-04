@@ -41,7 +41,7 @@
      * **Objective** 
          * Since the application is up&running, we need to monitor the infra and application and get freq alerts
          
-     * **Tools used** - helm charts,grafana and prometheus  
+     * **Tools used** - helm charts, prometheus & grafana
      
      
      
