@@ -12,15 +12,17 @@
       
   * **Tools used** - Ansible,Docker
 
-### 2.[Train schedule webpage - No docker & k3](github.com/sivakumar-j-secondary-ac/cicd-pipeline-train-schedule-gradle)
+### 2.Train schedule website
+
+    **Phase-1** [No docker & k3](https://github.com/sivakumar-j-secondary-ac/cicd-pipeline-train-schedule-gradle)
   
-  * #### Objective
-      * Create a build from java code,deploy in staging and production server( need auth)
-      * Application should be running
+      * #### Objective
+         * Create a build from java code,deploy in staging and production server( need auth)
+         * Application should be running
       
   * **Tools used** - Jenkins,gradle
 
-### [3.Train schedule webpage - with docker,no k3](github.com/sivakumar-j-secondary-ac/whboyd-cicd-pipeline-train-schedule-dockerdeploy)
+### [3.Train schedule webpage - with docker,no k3](https://github.com/sivakumar-j-secondary-ac/whboyd-cicd-pipeline-train-schedule-dockerdeploy)
    
   * #### Objective
       * Create a build from java code,dockerize it and then pull run it, in  production server
