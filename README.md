@@ -36,7 +36,7 @@
      * **Tools used** - Docker&Dockerhub,Gradle,Jenkins,Kubernetes
      
    
-     * [Phase 4-Monitors and Alets](https://github.com/sivakumar-j-secondary-ac/15.1.4.0--ci-cd-train-schedule-phase-4)
+   * [Phase 4-Monitors and Alets](https://github.com/sivakumar-j-secondary-ac/15.1.4.0--ci-cd-train-schedule-phase-4)
    
      * **Objective** 
          * Since the application is up&running, we need to monitor the infra and application and get freq alerts
