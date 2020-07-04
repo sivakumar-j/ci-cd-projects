@@ -14,11 +14,7 @@
 
 ### 2.Train schedule website
 
-    **Phase-1** [No docker & k3](https://github.com/sivakumar-j-secondary-ac/cicd-pipeline-train-schedule-gradle)
-  
-      * #### Objective
-         * Create a build from java code,deploy in staging and production server( need auth)
-         * Application should be running
+
       
   * **Tools used** - Jenkins,gradle
 
