@@ -14,14 +14,14 @@
 
 ### 2.Train schedule website
 
-   * [Phase 1.Without-Docker](https://github.com/sivakumar-j-secondary-ac/cicd-pipeline-train-schedule-gradle)
+   * [Phase_1-Without-Docker](https://github.com/sivakumar-j-secondary-ac/cicd-pipeline-train-schedule-gradle)
    
      * **Objective** 
          * Create a build from java code,deploy in staging and production server( need auth)
          
      * **Tools used** - Gradle,Jenkins
      
-   * [Phase 2.With-Docker](https://github.com/sivakumar-j-secondary-ac/whboyd-cicd-pipeline-train-schedule-dockerdeploy)
+   * [Phase 2-With-Docker](https://github.com/sivakumar-j-secondary-ac/whboyd-cicd-pipeline-train-schedule-dockerdeploy)
    
      * **Objective** 
          * Create a build from java code,dockerize it and then pull run it, in  production server
