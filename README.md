@@ -28,12 +28,15 @@
          
      * **Tools used** - Docker,Gradle,Jenkins
 
-   * [Phase 3-With-kubernetes](https://github.com/sivakumar-j-secondary-ac/cicd-pipeline-train-schedule-kubernetes)
+   * [Phase 3-With-kubernetes](https://github.com/sivakumar-j-secondary-ac/15-ci-cd-train-schedule-phase-4)
    
      * **Objective** 
          * Create a build from nodejs code,dockerize it,create a kubernetes deployment for it and deploy in production
          
-     * **Tools used** - Docker,Gradle,Jenkins,Kubernetes
+     * **Tools used** - Docker&Dockerhub,Gradle,Jenkins,Kubernetes
+     
+     
+     
      
      
      
