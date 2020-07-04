@@ -12,7 +12,7 @@
       
   * **Tools used** - Ansible,Docker
 
-### 2.Train schedule website
+### 2.Train schedule application
 
    * [Phase 1-Legacy-Deployment](https://github.com/sivakumar-j-secondary-ac/cicd-pipeline-train-schedule-gradle)
    
