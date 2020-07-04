@@ -21,7 +21,7 @@
          
      * **Tools used** - Gradle,Jenkins
      
-   * [Phase 2-With-Docker](https://github.com/sivakumar-j-secondary-ac/whboyd-cicd-pipeline-train-schedule-dockerdeploy)
+   * [Phase 2-With-Docker](https://github.com/sivakumar-j-secondary-ac/15.1.2.0-ci-cd-train-schedule-phase-2)
    
      * **Objective** 
          * Create a build from nodejs code,dockerize it and then pull run it, in  production server
