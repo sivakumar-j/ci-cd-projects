@@ -24,14 +24,14 @@
    * [Phase 2-With-Docker](https://github.com/sivakumar-j-secondary-ac/15.1.2.0-ci-cd-train-schedule-phase-2)
    
      * **Objective** 
-         * Create a build from nodejs code,dockerize it and then pull run it, in  production server
+         * Create a build from nodejs code,dockerize it and then pull run it, in  production server( need auth)
          
      * **Tools used** - Docker,Gradle,Jenkins
 
    * [Phase 3-With-kubernetes](https://github.com/sivakumar-j-secondary-ac/15.1.3.0-ci-cd-train-schedule-phase-3)
    
      * **Objective** 
-         * Create a build from nodejs code,dockerize it,create a kubernetes deployment for it and deploy in production
+         * Create a build from nodejs code,dockerize it,create a kubernetes deployment for it and deploy in production( need auth)
          
      * **Tools used** - Docker&Dockerhub,Gradle,Jenkins,Kubernetes
      
