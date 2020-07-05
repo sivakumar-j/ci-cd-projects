@@ -43,7 +43,13 @@
          
      * **Tools used** - helm charts, prometheus & grafana
      
-     
+   * [Phase 5-Self-Healing-feature](https://github.com/sivakumar-j-secondary-ac/15.1.5.0--ci-cd-train-schedule-phase-5)
+   
+     * **Objective** 
+         * For some reasons, if the applications crashes, pods will be restarted again. New endpoint "break added",which will break the application
+         * Once the application is broken,the pod should be created instantly
+         
+     * **Tools used** - no new tools. Just added breakpoints and livenessProbe added in k8 deployment     
      
      
   
