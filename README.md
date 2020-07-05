@@ -49,6 +49,12 @@
          * If the applications crashes, application container needs be restarted instantly. 
          
      * **Tools used** - no new tools. Just added breakpoints and livenessProbe added in k8 deployment     
-     
-     
-  
+
+
+   * [Phase 6-Autoscaling](https://github.com/sivakumar-j-secondary-ac/15.1.6.0--ci-cd-train-schedule-phase-6)
+   
+     * **Objective** 
+         * Increase/Decrease pods according to the cpu utilization
+         
+     * **Tools used** - no new tools. Just added autoscaling in k8 deployment     
+
