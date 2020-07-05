@@ -57,4 +57,11 @@
          * Increase/Decrease pods according to the cpu utilization
          
      * **Tools used** - no new tools. Just added autoscaling in k8 deployment     
+     
+   * [Phase 7-canary deployment](https://github.com/sivakumar-j-secondary-ac/15.1.7.0--ci-cd-train-schedule-canary-deployment)
+   
+     * **Objective** 
+         * For real time testing of application perform a canary testing by canary deployment
+         
+     * **Tools used** - no new tools. Just added autoscaling in k8 deployment 
 
