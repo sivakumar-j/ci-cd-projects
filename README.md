@@ -64,4 +64,9 @@
          * For real time testing of application perform a canary testing by canary deployment
          
      * **Tools used** - no new tools. Just added autoscaling in k8 deployment 
-
+   * [Phase 8-Auto deployment](https://github.com/sivakumar-j-secondary-ac/15.1.8.0--ci-cd-train-schedule-auto-deploy)
+   
+     * **Objective** 
+         * No intervention deployment. New message needs to be added to home page
+         
+     * **Tools used** - Nothing new 
