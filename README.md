@@ -9,5 +9,6 @@
 # List of projects
 
   1. [Train schedule application](https://github.com/sivakumar-j/ci-cd-projects/blob/master/1_Train%20schedule%20application.md)
+      * Tools used - Docker, Gradle, Jenkins, K8 helm charts, Kubernetes, Prometheus & grafana
   2. [ci-cd-with-ansible](https://github.com/sivakumar-j/ci-cd-projects/blob/master/2_ci-cd-with-ansible.md)
-
+      * Tools used - Ansible and Docker
