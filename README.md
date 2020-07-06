@@ -4,7 +4,7 @@
 
 * So, will create repo in my secondary account github.com/sivakumar-j-secondary-ac and document here
 
-* you can find each project's list below.  More description ,objective, tools and methods used in every phase in the respective n_projectname.md file
+* you can find each project's list below.  More description ,objective, tools and methods used in every phase are mentioned in the respective n_projectname.md file
 
 # List of projects
 
