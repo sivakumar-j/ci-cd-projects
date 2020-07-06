@@ -9,4 +9,5 @@
 # List of projects
 
   1. [Train schedule application](https://github.com/sivakumar-j/ci-cd-projects/blob/master/1_Train%20schedule%20application.md)
+  2. [ci-cd-with-ansible](https://github.com/sivakumar-j/ci-cd-projects/blob/master/2_ci-cd-with-ansible.md)
 
