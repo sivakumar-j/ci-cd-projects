@@ -4,5 +4,9 @@
 
 * So, will create repo in my secondary account github.com/sivakumar-j-secondary-ac and document here
 
-* you can find each project's description ,objective and tools used here with prefix n_%
+* you can find each project's list below.  More description ,objective, tools and methods used in every phase in the respective n_projectname.md file
+
+# List of projects
+
+  1. [Train schedule application](https://github.com/sivakumar-j/ci-cd-projects/blob/master/1_Train%20schedule%20application.md)
 
