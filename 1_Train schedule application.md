@@ -49,7 +49,7 @@
    * [Phase 7-canary deployment](https://github.com/sivakumar-j-secondary-ac/15.1.7.0--ci-cd-train-schedule-canary-deployment)
    
      * **Objective** 
-         * For real time testing of application perform a canary testing by canary deployment
+         * For real time testing of application, perform a canary testing by canary deployment
          
      * **Tools used** - no new tools. Just added autoscaling in k8 deployment 
    * [Phase 8-Auto deployment](https://github.com/sivakumar-j-secondary-ac/15.1.8.0--ci-cd-train-schedule-auto-deploy)
